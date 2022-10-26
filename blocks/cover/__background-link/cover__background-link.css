@@ -44,7 +44,7 @@
     min-height: 480px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .cover__background-link {
     min-height: 200px;
   }
