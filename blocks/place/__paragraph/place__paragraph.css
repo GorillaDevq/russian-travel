@@ -5,7 +5,7 @@
 }
 
 .place__paragraph:not(:last-of-type) {
-  margin-bottom: 26px;
+  margin-bottom: 25px;
 }
 
 @media screen and (max-width: 768px) {
@@ -17,6 +17,6 @@
 
 @media screen and (max-width: 425px) {
   .place__paragraph {
-    padding-left: 16px;
+    padding: 0 16px;
   }
 }

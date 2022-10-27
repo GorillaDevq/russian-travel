@@ -7,8 +7,8 @@
 
 @media screen and (max-width: 850px) {
   .place__title {
-    font-size: 2.625rem;
-    line-height: 46px;
+    font-size: 2.7rem;
+    line-height: 45px;
   }
 }
 
@@ -16,6 +16,6 @@
   .place__title {
     font-size: 2rem;
     line-height: 35px;
-    padding-left: 16px;
+    padding: 0 16px;
   }
 }

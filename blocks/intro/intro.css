@@ -9,12 +9,13 @@
 @media screen and (max-width: 1024px) {
   .intro {
     padding-left: 48px;
+    padding-bottom: 66px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-    padding: 88px 0;
+    padding: 88px 0 98px 0;
     max-width: calc(100% - 48px);
     align-items: center;
   }
@@ -23,5 +24,11 @@
 @media screen and (max-width: 680px) {
   .intro {
     padding: 64px 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .intro {
+    max-width: 288px;
   }
 }
