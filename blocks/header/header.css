@@ -6,30 +6,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-@media screen and (max-width: 980px) {
-  .header {
-    width: calc(100% - 80px);
-  }
-}
-
-@media screen and (max-width: 940px) {
-  .header {
-    width: calc(100% - 70px);
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .header {
-    width: calc(100% - 60px);
-  }
-}
-
-@media screen and (max-width: 840px) {
-  .header {
-    width: calc(100% - 53px);
-  }
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 768px) {

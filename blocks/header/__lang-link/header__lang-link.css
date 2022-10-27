@@ -3,6 +3,7 @@
   font-size: 1.5rem;
   line-height: 28px;
   color: inherit;
+  align-self: center;
 }
 
 .header__lang-link:not(:last-of-type) {
