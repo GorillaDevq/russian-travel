@@ -6,7 +6,6 @@
   grid-auto-flow: row;
   row-gap: 48px;
   column-gap: 40px;
-  box-sizing: border-box;
 }
 
 .place:not(:last-of-type) {
