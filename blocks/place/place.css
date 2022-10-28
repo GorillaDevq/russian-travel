@@ -41,9 +41,6 @@
     row-gap: 32px;
   }
   .place:not(:last-of-type) {
-    padding-bottom: 55px;
-  }
-  .place:nth-of-type(1) {
-    padding-bottom: 60px;
+    padding-bottom: 50px;
   }
 }
